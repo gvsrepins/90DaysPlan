@@ -1,4 +1,4 @@
-# First 90-Days Plan for Backend Developer
+# The first 90 Days Plan for Backend Developer
 > Checklist of my 90 Days Onboarding Plan as Backend Developer @ ARPM
 
 ## **End of First Day: Initial Onboarding and Familiarization**
