@@ -7,6 +7,7 @@
 - [ ] Meet manager and team to understand expectations.
 - [ ] Learn about the company culture, values, and high-level goals.
 - [ ] Write down initial questions about the team’s workflow or tech stack.
+- [ ] Hopefully, make a first deployment with a small, low-risk task.
 
 ---
 
