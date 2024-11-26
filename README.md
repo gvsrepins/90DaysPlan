@@ -2,9 +2,9 @@
 > Checklist of the first 90 Days plan as Backend Developer @ ARPM
 
 ## **End of First Day: Initial Onboarding and Familiarization**
-- [ ] Attend orientation sessions and complete HR requirements.
-- [ ] Set up work environment (IDE, repositories, access to systems).
-- [ ] Meet manager and team to understand expectations.
+- [x] Attend orientation sessions and complete HR requirements.
+- [x] Set up work environment (IDE, repositories, access to systems).
+- [x] Meet manager and team to understand expectations.
 - [ ] Learn about the company culture, values, and high-level goals.
 - [ ] Write down initial questions about the team’s workflow or tech stack.
 - [ ] Hopefully, make a first deployment with a small, low-risk task.
