@@ -6,8 +6,8 @@
 - [x] Set up work environment (IDE, repositories, access to systems).
 - [x] Meet manager and team to understand expectations.
 - [ ] Learn about the company culture, values, and high-level goals.
-- [ ] Write down initial questions about the team’s workflow or tech stack.
-- [ ] Hopefully, make a first deployment with a small, low-risk task.
+- [x] Write down initial questions about the team’s workflow or tech stack.
+- [x] Hopefully, make a first deployment with a small, low-risk task.
 
 ---
 
@@ -15,8 +15,8 @@
 - [ ] Familiarize with the company’s product, backend architecture, and tech stack.
 - [ ] Review key documentation (system architecture, APIs, workflows).
 - [ ] Shadow team members or attend walkthroughs of the codebase and processes.
-- [ ] Contribute to a small, low-risk task (e.g., fix a bug or improve documentation).
-- [ ] Document observations about the system or processes for improvement.
+- [x] Contribute to a small, low-risk task (e.g., fix a bug or improve documentation).
+- [x] Document observations about the system or processes for improvement.
 - [ ] Schedule a check-in with your manager to review progress and clarify priorities.
 
 ---
