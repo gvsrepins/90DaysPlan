@@ -22,8 +22,8 @@
 ---
 
 ## **End of First Month: Meaningful Contributions**
-- [ ] Work on medium-complexity tasks or features independently.
-- [ ] Collaborate with team members in sprint planning and code reviews.
+- [x] Work on medium-complexity tasks or features independently.
+- [x] Collaborate with team members in sprint planning and code reviews.
 - [ ] Explore production/staging environments and analyze system logs to understand performance.
 - [ ] Identify areas for improving performance, scalability, or maintainability.
 - [ ] Successfully deliver at least one medium-complexity feature or bug fix.
