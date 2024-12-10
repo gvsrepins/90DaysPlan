@@ -14,7 +14,7 @@
 ## **End of First Week: Initial Integration**
 - [x] Familiarize with the company’s product, backend architecture, and tech stack.
 - [ ] Review key documentation (system architecture, APIs, workflows).
-- [~] Shadow team members or attend walkthroughs of the codebase and processes.
+- [ ] ~Shadow team members or attend walkthroughs of the codebase and processes.~
 - [x] Contribute to a small, low-risk task (e.g., fix a bug or improve documentation).
 - [x] Document observations about the system or processes for improvement.
 - [x] Schedule a check-in with your manager to review progress and clarify priorities.
