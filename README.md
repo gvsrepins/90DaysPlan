@@ -14,7 +14,7 @@
 ## **End of First Week: Initial Integration**
 - [x] Familiarize with the company’s product, backend architecture, and tech stack.
 - [ ] Review key documentation (system architecture, APIs, workflows).
-- [ ] Shadow team members or attend walkthroughs of the codebase and processes.
+- [~] Shadow team members or attend walkthroughs of the codebase and processes.
 - [x] Contribute to a small, low-risk task (e.g., fix a bug or improve documentation).
 - [x] Document observations about the system or processes for improvement.
 - [x] Schedule a check-in with your manager to review progress and clarify priorities.
@@ -25,7 +25,7 @@
 - [x] Work on medium-complexity tasks or features independently.
 - [x] Collaborate with team members in sprint planning and code reviews.
 - [ ] Explore production/staging environments and analyze system logs to understand performance.
-- [ ] Identify areas for improving performance, scalability, or maintainability.
+- [x] Identify areas for improving performance, scalability, or maintainability.
 - [ ] Successfully deliver at least one medium-complexity feature or bug fix.
 - [ ] Actively participate in code reviews and provide meaningful feedback.
 - [ ] Create or improve documentation for an API, service, or process.
